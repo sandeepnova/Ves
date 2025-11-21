@@ -1,7 +1,6 @@
-Version: 1.1
 <html>
 <head>
-  <title>Allied Health Index Page</title>
+  <title>Allied Health Index Page | Version:1.1</title>
 </head>
 
 <body class="body0">
